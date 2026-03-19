@@ -1,4 +1,4 @@
-# Python Syntax
+# Workflow Syntax
 
 ## Download
 - install package:
